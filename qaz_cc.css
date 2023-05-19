@@ -29,7 +29,7 @@ a:hover{ color: #da2f33; text-decoration: underline;}
 
 .logo-bar { width: 1060px; height: 350px; margin:auto; position: relative;}
 .logo { width: 1060px; height: 350px; position: absolute; top: 0; left: 0;}
-.logo a { width: 1060px; height: 350px; background: url(/img/lg.png) 0 0 no-repeat; display: block;}
+.logo a { width: 1060px; height: 350px; background: url(https://cdn.jsdelivr.net/gh/yncms/cms/logo.png) 0 0 no-repeat; display: block;}
 .top-ad { width: 500px; height: 55px; position: absolute; top: 0; right: 0;}
 .top-ad img { width: 500px; height: 60px;}
 .logo-bar a:hover { position: relative; top: 1px; left: 1px;}
